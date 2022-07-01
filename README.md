@@ -1,6 +1,7 @@
 # get-picture-theme-color
 
 获取照片主题颜色
+
 //安装
 yarn add get-picture-theme-color
 
