@@ -1,0 +1,16 @@
+{
+  "name": "get-picture-theme-color",
+  "version": "1.0.0",
+  "description": "获取照片主题颜色",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["picture", "theme", "color", "get-picture-theme-color", "js"],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linqingjie/get-picture-theme-color.git"
+  }
+}
